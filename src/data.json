@@ -1,0 +1,202 @@
+{
+	"items": {
+		'floor41': [
+			{
+				title: 'Flat mop',
+				id: 'flatmop',
+			},
+			{
+				title: 'Flat mop wipes',
+				id: 'flatMopWipes',
+			},
+			{
+				title: 'Tersano - Hot water',
+				id: 'tersano',
+			},
+			{
+				title: 'Tango',
+				id: 'tango',
+			},
+			{
+				title: 'Oil',
+				id: 'oil',
+			},
+			{
+				title: 'Air Freshener',
+				id: 'airFreshener',
+			},
+			{
+				title: 'Gloves - max 2',
+				id: 'gloves',
+			},
+			{
+				title: 'Blue glass rags ',
+				id: 'blueGlassRags',
+			},
+			{
+				title: 'Blue rags',
+				id: 'blueRags',
+			},
+			{
+				title: 'Green rags',
+				id: 'greenRags',
+			},
+			{
+				title: 'Vaccum',
+				id: 'vaccum',
+			},
+			{
+				title: 'Batteries Vaccum',
+				id: 'batteriesVaccum',
+			},
+			{
+				title: 'Doodlebug',
+				id: 'doodlebug',
+			},
+			{
+				title: 'Bucket',
+				id: 'bucket',
+			},
+			{
+				title: 'Mop',
+				id: 'mop',
+			},
+			{
+				title: 'Duster Wipe',
+				id: 'dusterWipe',
+			},
+			{
+				title: 'Glass Cleaner',
+				id: 'glassCleaner',
+			},
+		],
+		'floor72': [
+			{
+				title: 'Flat mop',
+				id: 'flatmop',
+			},
+			{
+				title: 'Flat mop wipes',
+				id: 'flatMopWipes',
+			},
+			{
+				title: 'Tersano - Hot water',
+				id: 'tersano',
+			},
+			{
+				title: 'Tango',
+				id: 'tango',
+			},
+			{
+				title: 'Oil',
+				id: 'oil',
+			},
+			{
+				title: 'Air Freshener',
+				id: 'airFreshener',
+			},
+			{
+				title: 'Gloves - max 2',
+				id: 'gloves',
+			},
+			{
+				title: 'Blue glass rags ',
+				id: 'blueGlassRags',
+			},
+			{
+				title: 'Blue rags',
+				id: 'blueRags',
+			},
+			{
+				title: 'Green rags',
+				id: 'greenRags',
+			},
+			{
+				title: 'Vaccum',
+				id: 'vaccum',
+			},
+			{
+				title: 'Batteries Vaccum',
+				id: 'batteriesVaccum',
+			},
+		],
+		'lobbies': [
+			{
+				title: 'Flat mop',
+				id: 'flatmop',
+			},
+			{
+				title: 'Flat mop wipes',
+				id: 'flatMopWipes',
+			},
+			{
+				title: 'Tersano - Hot water',
+				id: 'tersano',
+			},
+			{
+				title: 'Tango',
+				id: 'tango',
+			},
+			{
+				title: 'Oil',
+				id: 'oil',
+			},
+			{
+				title: 'Gloves - max 2',
+				id: 'gloves',
+			},
+			{
+				title: 'Blue glass rags ',
+				id: 'blueGlassRags',
+			},
+			{
+				title: 'Blue rags',
+				id: 'blueRags',
+			},
+			{
+				title: 'Glass Cleaner',
+				id: 'glassCleaner',
+			},
+			{
+				title: 'Imop',
+				id: 'imop',
+			},
+			{
+				title: 'EnyClean (degreser)',
+				id: 'enyClean',
+			},
+			{
+				title: 'Magic Sponge',
+				id: 'magicSponge',
+			},
+			{
+				title: 'Vaccum',
+				id: 'vaccum',
+			},
+			{
+				title: 'Batteries Vaccum',
+				id: 'batteriesVaccum',
+			},
+			{
+				title: 'Doodlebug',
+				id: 'doodlebug',
+			},
+			{
+				title: 'Bucket',
+				id: 'bucket',
+			},
+			{
+				title: 'Mop',
+				id: 'mop',
+			},
+			{
+				title: 'Duster Wipe',
+				id: 'dusterWipe',
+			},
+			{
+				title: 'Glass Cleaner',
+				id: 'glassCleaner',
+			},
+		],
+	},
+}
